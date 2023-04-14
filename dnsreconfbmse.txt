@@ -1,0 +1,13 @@
+[*] std: Performing General Enumeration against: fbmse.ru...
+[-] DNSSEC is not configured for fbmse.ru
+[*] 	 SOA ns1.fbmse.ru 213.171.46.115
+[*] 	 NS ns2.fbmse.ru 213.79.117.125
+[*] 	 Bind Version for 213.79.117.125 "9.16.37-Debian"
+[*] 	 NS ns1.fbmse.ru 213.171.46.115
+[*] 	 Bind Version for 213.171.46.115 "9.16.37-Debian"
+[*] 	 MX mail.fbmse.ru 82.138.54.82
+[*] 	 A fbmse.ru 82.138.54.86
+[*] 	 TXT fbmse.ru v=spf1 mx ip4:82.138.54.82 ?all
+[*] 	 TXT fbmse.ru "google-site-verification=-SjY12Xuk1cgCqBAv0PTMrA8jW0bPAj1XpT37ptTHAw"
+[*] Enumerating SRV Records
+[+] 0 Records Found

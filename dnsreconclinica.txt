@@ -1,0 +1,10 @@
+[*] std: Performing General Enumeration against: clinica-fbmse.ru...
+[-] DNSSEC is not configured for clinica-fbmse.ru
+[*] 	 SOA ns1.fbmse.ru 213.171.46.115
+[*] 	 NS ns1.fbmse.ru 213.171.46.115
+[*] 	 Bind Version for 213.171.46.115 "9.16.37-Debian"
+[*] 	 NS ns2.fbmse.ru 213.79.117.125
+[*] 	 Bind Version for 213.79.117.125 "9.16.37-Debian"
+[*] 	 A clinica-fbmse.ru 82.138.54.86
+[*] Enumerating SRV Records
+[+] 0 Records Found
