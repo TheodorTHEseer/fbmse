@@ -1,0 +1,493 @@
+Nmap scan report for fbmse.ru (82.138.54.86)
+Host is up (0.0089s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for www.fbmse.ru (82.138.54.86)
+Host is up (0.011s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for mail.fbmse.ru (82.138.54.82)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+587/tcp  open  submission
+2000/tcp open  cisco-sccp
+3000/tcp open  ppp
+5060/tcp open  sip
+
+Nmap scan report for ns1.fbmse.ru (213.171.46.115)
+Host is up (0.014s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+53/tcp    open  domain
+80/tcp    open  http
+2000/tcp  open  cisco-sccp
+5060/tcp  open  sip
+10000/tcp open  snet-sensor-mgmt
+
+Nmap scan report for ftp.fbmse.ru (82.138.54.85)
+Host is up (0.012s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+
+Nmap scan report for vpn.fbmse.ru (82.138.54.84)
+Host is up (0.011s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for mx.fbmse.ru (82.138.54.82)
+Host is up (0.016s latency).
+rDNS record for 82.138.54.82: mail.fbmse.ru
+Not shown: 994 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+587/tcp  open  submission
+993/tcp  open  imaps
+2000/tcp open  cisco-sccp
+3000/tcp open  ppp
+5060/tcp open  sip
+
+Nmap scan report for pbx.fbmse.ru (213.79.117.124)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+5061/tcp open  sip-tls
+
+Nmap scan report for ns2.fbmse.ru (213.79.117.125)
+Host is up (0.019s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+53/tcp    open  domain
+2000/tcp  open  cisco-sccp
+5060/tcp  open  sip
+10000/tcp open  snet-sensor-mgmt
+
+Nmap scan report for adm.fbmse.ru (82.138.54.86)
+Host is up (0.011s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for galletasdeante.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for red-virgencita-maria-promessas.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for craftside.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for lms.fbmse.ru (82.138.54.86)
+Host is up (0.011s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for games-banat.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for gossipshollywood.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for cultura-del-frumento.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for kaitokidd.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Nmap scan report for kingautomobile.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for ubuntu-c.gbmse.ru (82.138.54.86)
+Host is up (0.014s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for healthfitzone.GBMSE.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for bollytube9.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Nmap scan report for elmagic25.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for lokernesia.gbmse.ru (82.138.54.86)
+Host is up (0.015s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for ifihadablogpart2.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Nmap scan report for tigersallconsumingbooks.gbmse.ru (82.138.54.86)
+Host is up (0.0095s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for lisalovesholidays.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for two2-chingoo.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for azerijigid.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for sicarius.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Nmap scan report for mistrpopo.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+5060/tcp open  sip
+
+Nmap scan report for pinayundergroundphotos.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for hyipreviewerblog.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for rebecca-hawkes.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+5060/tcp open  sip
+
+Nmap scan report for 48.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for acdc.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for astrosun.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for aryabhata.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for astyanax.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for blink.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for blitz.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for spf.fbmse.ru (82.138.54.82)
+Host is up (0.012s latency).
+rDNS record for 82.138.54.82: mail.fbmse.ru
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+587/tcp  open  submission
+993/tcp  open  imaps
+5060/tcp open  sip
+
+Nmap scan report for brl-vodka.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for burnett.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for can.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for burmeister.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for ccnga.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for cclink.gbmse.ru (82.138.54.86)
+Host is up (0.014s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for ccndu.gbmse.ru (82.138.54.86)
+Host is up (0.013s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for cliffrose.gbmse.ru (82.138.54.86)
+Host is up (0.014s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for classy.gbmse.ru (82.138.54.86)
+Host is up (0.011s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for craysun.gbmse.ru (82.138.54.86)
+Host is up (0.011s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for cviog.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap scan report for dbr.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+110/tcp  open  pop3
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Nmap scan report for dmssc-guantanm.gbmse.ru (82.138.54.86)
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+110/tcp  open  pop3
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+
+Nmap done: 55 IP addresses (55 hosts up) scanned in 362.40 seconds
